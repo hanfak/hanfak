@@ -8,7 +8,8 @@ Hello everybody
   
 ### Statistics
   <img src="https://github-readme-stats.vercel.app/api?username=hanfak&show_icons=true" alt="GitHub stats">
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanfak&langs_count=5&theme=tokyonight" alt="Languages">
   
 ### Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=hanfak)
