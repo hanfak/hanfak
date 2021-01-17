@@ -11,8 +11,6 @@ Hello everybody
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanfak&langs_count=5&layout=compact" alt="Languages">
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hanfak" alt="Languages">
-
 ### Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=hanfak)
 </details>
