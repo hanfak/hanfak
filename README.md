@@ -4,7 +4,7 @@ Hello everybody
   <summary>Details & Some statistics</summary>
 
 ### What I do:
-- Experienced in Java Developer
+- Experienced Java Developer
   
 ### Statistics
   <img src="https://github-readme-stats.vercel.app/api?username=hanfak&show_icons=true" alt="GitHub stats">
