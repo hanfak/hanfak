@@ -10,11 +10,11 @@ Here is an index of my repos that might be useful
 
 |Name|Description|Tech|
 |----|-----------|----|
-|new yatspec demo|An example app, using a clean architecture, for exploring ways of using the acceptance testing framework yatspec|Java, Yatspec, activemq, jooq, jetty|
-|design-patterns|A collection of examples of using java regarding computer science, architecture, testing, refactoring etc, |Java|
-|airport|An example app, using clean architecture, testing pyramid, jdbc to connect to database, docker, connecting to http third parties, static analysis, database pooling|java, jdbc, wiremock, yatspec, flyway, jetty|
-|Poker game|Unfinished app which currently evaluates multiple poker hands of 5 random cards, and determines the winner and order of best hands|java|
-|Katas <br>* Videostore<br>* shopping-cart-oo-calisthenics-java<br>* yatzi<br>* shopping-ex-1<br>* fizzbuzz-java<br>* Gilded-Rose-Java<br>* trip-service-kata<br>|katas done|java|
+|[new yatspec demo](https://github.com/hanfak/new-yatspec-demo)|An example app, using a clean architecture, for exploring ways of using the acceptance testing framework yatspec|Java, Yatspec, activemq, jooq, jetty|
+|[design-patterns](https://github.com/hanfak/design-patterns-examples-)|A collection of examples of using java regarding computer science, architecture, testing, refactoring etc, |Java|
+|[airport](https://github.com/hanfak/airportv2-mvn-enterprise)|An example app, using clean architecture, testing pyramid, jdbc to connect to database, docker, connecting to http third parties, static analysis, database pooling|java, jdbc, wiremock, yatspec, flyway, jetty|
+|[Poker game](https://github.com/hanfak/poker-game)|Unfinished app which currently evaluates multiple poker hands of 5 random cards, and determines the winner and order of best hands|java|
+|Katas <br>* [Videostore](https://github.com/hanfak/uncle-bob-vidoestore)<br>* shopping-cart-oo-calisthenics-java<br>* yatzi<br>* shopping-ex-1<br>* fizzbuzz-java<br>* Gilded-Rose-Java<br>* trip-service-kata<br>|katas done|java|
 
 TBC...
 
