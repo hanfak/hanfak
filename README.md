@@ -1,12 +1,14 @@
 Hello everybody,
 
+I am a developer, working primarily with Java in backend/middleware services since February 2017.
+
 This is my repository where I put things that I have learned (notes and code) and contributions to other projects
 
-I have a java library for writing fluent validations, [Valid8or](https://github.com/hanfak/valid8or)
+I have a java library for writing fluent validations, [Valid8or](https://github.com/hanfak/valid8or) and a library for creating plantuml flowchart/activity diagrams using a fluent interface [FLowgen](https://github.com/hanfak/flowgen)
 
-I have repo full of notes on development that I have studied independently or at work see [notes](https://github.com/hanfak/topics-to-learn) and the a [nicer ui via gitbooks](https://hanfak.gitbook.io/workspace)
+I have repo full of notes on development that I have studied independently or at work see [notes](https://github.com/hanfak/topics-to-learn) and the a [nicer ui via gitbooks](https://hanfak.gitbook.io/workspace), and playground to learn and try new programming ideas [java playground](https://github.com/hanfak/design-patterns-examples-)
 
-Here is an index of my repos that might be useful
+Here is an index of some of my repos that might be useful
 
 |Name|Description|Tech|
 |----|-----------|----|
@@ -21,14 +23,14 @@ Here is an index of my repos that might be useful
 <details>
   <summary>Details & Some statistics</summary>
 
-### What I do:
-- Experienced Java Developer
+   ### What I do:
+   - Experienced Java Developer
   
-### Statistics
-  <img src="https://github-readme-stats.vercel.app/api?username=hanfak&show_icons=true" alt="GitHub stats">
+   ### Statistics
+   <img src="https://github-readme-stats.vercel.app/api?username=hanfak&show_icons=true" alt="GitHub stats">
 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanfak&langs_count=5" alt="Languages"> -->
+   <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanfak&langs_count=5" alt="Languages"> -->
 
-### Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=hanfak)
+   ### Trophy
+   ![trophy](https://github-profile-trophy.vercel.app/?username=hanfak)
 </details>
