@@ -2,6 +2,13 @@ Hello everybody,
 
 I am a developer, working primarily with Java in backend/middleware services since February 2017.
 
+🖥 Software Development: <br/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50px" height="50px">
+<br/>
+<br/>
+🛠 Develepment Tools: <br/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain-wordmark.svg" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" height="50px"> 
+
 This is my repository where I put things that I have learned (notes and code) and contributions to other projects
 
 I have a java library for writing fluent validations, [Valid8or](https://github.com/hanfak/valid8or) and a library for creating plantuml flowchart/activity diagrams using a fluent interface [FLowgen](https://github.com/hanfak/flowgen)
